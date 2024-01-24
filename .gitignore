@@ -1,3 +1,8 @@
+## CUSTOM
+1-research/data/raw/aoi.gpkg-shm
+1-research/data/raw/aoi.gpkg-wal
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
